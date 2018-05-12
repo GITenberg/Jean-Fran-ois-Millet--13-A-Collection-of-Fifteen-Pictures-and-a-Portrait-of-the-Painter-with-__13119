@@ -1,0 +1,29 @@
+_repo: Jean-Fran-ois-Millet--13-A-Collection-of-Fifteen-Pictures-and-a-Portrait-of-the-Painter-with-__13119
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hurll, Estelle M. (Estelle May)
+    alias: Hurll, Estelle May
+    birthdate: 1863
+    deathdate: 1924
+    gutenberg_agent_id: '4845'
+    url: http://www.gutenberg.org/2009/agents/4845
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2004-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Millet, Jean François, 1814-1875'
+- !lcc 'ND'
+title: "Jean François Millet\r\nA Collection of Fifteen Pictures and a Portrait of\
+  \ the Painter, with Introduction and Interpretation"
+url: http://www.gutenberg.org/ebooks/13119
