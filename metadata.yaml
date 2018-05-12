@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4845'
     url: http://www.gutenberg.org/2009/agents/4845
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13119#Jean-Fran-ois-Millet--13-A-Collection-of-Fifteen-Pictures-and-a-Portrait-of-the-Painter-with-_
 gutenberg_bookshelf: Art
 gutenberg_issued: '2004-08-05'
 gutenberg_type: Text
